@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for a common issue in Dapps: the failure to detect the MetaMask wallet even when it's properly installed. The bug stems from a flawed check within the `checkIfWalletIsConnected` function. The solution provides a more robust method to detect and connect to MetaMask.
